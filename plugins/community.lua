@@ -23,4 +23,5 @@ return {
     },
   },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  --{ import = "astrocommunity.motion.mini-surround" },
 }
